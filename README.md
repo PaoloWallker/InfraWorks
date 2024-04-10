@@ -3,6 +3,8 @@
 ## ***nfraWorks: Conceptualize designs in real-world context***
 ## ***InfraWorks® conceptual design software helps you model and understand infrastructure projects, in context***
 
+<img src="https://github.com/PaoloWallker/InfraWorks/blob/main/IW.png"/>
+
 **Use it to:**
 
 +  Generate accurate and visually rich conceptual designs
